@@ -7,7 +7,7 @@ The purpose of this repository is to help with **exam preparation, revision, and
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```
 .
@@ -62,15 +62,15 @@ The purpose of this repository is to help with **exam preparation, revision, and
 
 ---
 
-# Study Materials
+## Study Materials
 
-## Flashcard.colpkg
+### Flashcard.colpkg
 
 `Flashcard.colpkg` is an **Anki flashcard deck** containing practice questions and answers for CEH topics.
 
 The flashcards are designed to help reinforce knowledge through **spaced repetition learning**.
 
-### How to Import into Anki
+#### How to Import into Anki
 
 1. Install **Anki**
 
@@ -122,7 +122,7 @@ The notes summarize key concepts, tools, and techniques from **Module 1 to Modul
 
 ---
 
-# CEH Modules Covered
+## CEH Modules Covered
 
 The notes and flashcards cover the following CEH domains:
 
@@ -151,9 +151,9 @@ The notes and flashcards cover the following CEH domains:
 
 ---
 
-# Additional Resources
+## Additional Resources
 
-## Practice Questions
+### Practice Questions
 
 [https://github.com/ryh04x/CEH-Exam-Questions](https://github.com/ryh04x/CEH-Exam-Questions)
 
@@ -173,8 +173,6 @@ The notes and flashcards cover the following CEH domains:
 
 [https://cehtest.org/index.html](https://cehtest.org/index.html)
 
----
-
 ## Cheat Sheets
 
 CEH Cheat Sheet (StationX)
@@ -187,7 +185,7 @@ CEH v13 Master Cheat Sheet
 
 ---
 
-# Disclaimer
+## Disclaimer
 
 This repository is intended **for educational and study purposes only**.
 
