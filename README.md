@@ -1,5 +1,3 @@
----
-
 # CEH Study Resources
 
 This repository contains study materials for the **Certified Ethical Hacker (CEH)** exam.
