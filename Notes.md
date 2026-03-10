@@ -231,6 +231,7 @@ Threat modeling is a structured process to identify and prioritise potential thr
 | **GDPR**                     | The General Data Protection Regulation is a regulation in EU law on data protection and privacy .                                                                                                                     | **Principles:** Lawfulness, fairness, transparency; Purpose limitation; Data minimisation; Accuracy; Storage limitation; Integrity and confidentiality. |
 | **Data Protection Act 2018** | The UK’s implementation of the GDPR .                                                                                                                                                                                 | Provides a legal framework for data protection in the United Kingdom.                                                                                   |
 | **Cyber Law in Countries**   | Legal frameworks vary significantly by country, governing how cybercrimes are prosecuted and how data must be protected .                                                                                             | **Example:** The US uses various sectoral laws (HIPAA, GLBA), while the EU uses the omnibus GDPR.                                                       |
+
  **ISO/IEC Standards**
 
 The International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) develop global frameworks for managing information security, risk, and privacy.
@@ -267,6 +268,7 @@ Enacted in 1998, the DMCA implements WIPO treaties and addresses the relationshi
 |**Title III**|**Computer Maintenance or Repair**|Allows for the temporary reproduction of a computer program for the sole purpose of maintenance or repair of a machine.|
 |**Title IV**|**Miscellaneous Provisions**|Covers various topics, including the duties of the Copyright Office, ephemeral recordings, and distance education.|
 |**Title V**|**Protection of Certain Original Designs**|Specifically provides protection for the unique designs of vessel (boat) hulls.|
+
 **SOX (Sarbanes-Oxley Act of 2002)**
 
 SOX was enacted to prevent corporate accounting fraud (following scandals like Enron and WorldCom). While it is a financial law, Sections 302 and 404 have massive implications for IT security and data integrity.
